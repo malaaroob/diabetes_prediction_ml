@@ -3,7 +3,7 @@
 A machine learning project that predicts diabetes status using clinical biomarkers, deployed as an interactive Streamlit web app.
 ## Overview
 
-This project covers the full ML pipeline — from raw data to a working, deployed application:
+This project covers the full ML pipeline from raw data to a working, deployed application:
 - Exploratory Data Analysis (EDA)
 - Data cleaning (missing values, outlier detection)
 - Feature engineering (encoding categorical variables, feature selection)
